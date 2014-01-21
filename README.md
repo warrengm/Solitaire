@@ -1,0 +1,1 @@
+Implementations of Klondike, Spider, Free Cell, and Yukon Solitaires with some minor variations.
